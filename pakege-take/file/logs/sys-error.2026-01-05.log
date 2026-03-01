@@ -1,0 +1,4 @@
+10:48:47.827 [http-nio-8080-exec-1] ERROR c.f.s.c.TokenService - [getLoginUser,68] - 获取用户信息异常: JWT expired at 2026-01-04T10:12:27Z. Current time: 2026-01-05T02:48:47Z, a difference of 59780826 milliseconds.  Allowed clock skew: 0 milliseconds.
+10:48:56.476 [http-nio-8080-exec-7] ERROR c.f.s.c.TokenService - [getLoginUser,68] - 获取用户信息异常: JWT expired at 2026-01-04T10:14:12Z. Current time: 2026-01-05T02:48:56Z, a difference of 59684476 milliseconds.  Allowed clock skew: 0 milliseconds.
+15:57:57.630 [http-nio-8080-exec-48] ERROR c.f.s.c.TokenService - [getLoginUser,68] - 获取用户信息异常: JWT expired at 2026-01-05T07:48:54Z. Current time: 2026-01-05T07:57:57Z, a difference of 543629 milliseconds.  Allowed clock skew: 0 milliseconds.
+16:20:05.713 [http-nio-8080-exec-56] ERROR c.f.s.c.TokenService - [getLoginUser,68] - 获取用户信息异常: JWT expired at 2026-01-05T08:01:32Z. Current time: 2026-01-05T08:20:05Z, a difference of 1113712 milliseconds.  Allowed clock skew: 0 milliseconds.
